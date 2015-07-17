@@ -1,4 +1,4 @@
-#include<iostream.h>		
+#include<iostream.h>																																																																//codedbyvasunegi
 #include<conio.h>																																																		
 #include<math.h>
 #include<stdlib.h>
@@ -41,5 +41,6 @@ while(round(x1)!=round(x2))
 	x2=d;}
 cout<<"approximated root is:"<<endl<<x1;
 getch();
-}		
+}																																																																																																																						//codedbyvasunegi
+
 
